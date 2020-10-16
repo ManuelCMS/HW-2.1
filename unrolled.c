@@ -1,4 +1,4 @@
-//code implementation of the unrolled algorithm
+//code implementation of the unrolled algorithm for matrix multiplication
  //Import libraries
 #include <stdio.h>
 #include <stdlib.h>
